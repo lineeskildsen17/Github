@@ -1,0 +1,30 @@
+{
+  "name": "gulpprojekt",
+  "version": "1.0.0",
+  "description": "velkommen til mit github repo...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lineeskildsen17/Github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lineeskildsen17/Github/issues"
+  },
+  "homepage": "https://github.com/lineeskildsen17/Github#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
